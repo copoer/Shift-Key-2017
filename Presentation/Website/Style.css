@@ -1,0 +1,109 @@
+body{
+	margin: 0px;
+	font-family: 'Droid Serif', serif;
+	font-size: 20px;
+}
+header{
+	width: auto;
+	
+	height: 100px;
+	background-color: #4e5661;
+
+}
+nav{
+	margin-top: 50px;
+	height: auto;
+	float: right;
+	margin-bottom: 0px;
+
+
+}
+
+nav ul{
+
+	list-style: none;
+	margin-bottom: 0px;
+	height: auto;
+
+	
+}
+nav ul li{
+	
+	display: inline;
+	padding: 30px;
+
+
+}
+nav ul li a{
+	color: #f1f5fa;
+	font-weight: bolder;
+	text-decoration: none;
+}
+nav ul li a:hover{
+	color: #7fc4c7;
+	
+}
+
+#middle{
+
+	width: auto;
+	border: 2px;
+	border-style: solid;
+	background-color: pink;
+	height: 500px;
+
+}
+#leftContainer{
+	list-style: none;
+	width: 50%;
+	float: left;
+	height: auto;
+}
+#leftContainer li{
+	height: 200px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	display: inline-flex;
+	border: 2px;
+	border-style: solid;
+	background-color: blue;
+	color: white;
+}
+#leftContainer li a{
+	color: white;
+	text-decoration: none;
+}
+#Poilitics{
+	background-image: url("images/politics.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#finance{
+	background-image: url("images/Finance.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#Technology{
+	background-image: url("images/tech.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+#health{
+	background-image: url("images/health.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#rightContainer{
+	background-image: url("images/rightBackground.png");
+	background-size: 100%;
+ 	border: 1px;
+	margin-left: 0px;
+	height: 100%;
+	border-style: solid;
+	border-color: purple;
+}
+
+
+
