@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "mashape/unirest-php": "3.*"
+    },
+    "require": {
+        "znck/summarizer": "^1.0"
+    }
+}
