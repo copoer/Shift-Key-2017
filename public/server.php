@@ -7,4 +7,4 @@ foreach ($r->articles as $i) {
 }
 $summarizer = new \Znck\Summarizer\Summarizer;
 $output = $summarizer->summarize($s);
-echo $output;
+echo substr($output, 0, 500);

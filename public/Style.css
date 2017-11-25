@@ -98,28 +98,28 @@ nav ul li a:hover{
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 250px;
-	height: 200px;
+	height: 196px;
 }
 #finance{
 	background-image: url("images/Finance.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 250px;
-	height: 200px;
+	height: 196px;
 }
 #Technology{
 	background-image: url("images/Tech.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 250px;
-	height: 200px;
+	height: 196px;
 }
 #health{
 	background-image: url("images/health.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	width: 250px;
-	height: 200px;
+	height: 196px;
 }
 
 #rightContainer{
@@ -133,4 +133,8 @@ nav ul li a:hover{
 }
 
 
-
+footer{
+	background-color: #4e5661;
+	font-weight: bolder;
+	color: silver;
+}
